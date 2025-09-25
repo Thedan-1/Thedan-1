@@ -26,7 +26,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;Focused+on+AI+and+UI/UX.;Always+learning+new+things.;Welcome+to+my+profile!&font=Fira%20Code&size=25&duration=2000&color=00BFFF&center=true" alt="Typing SVG" />0BFFF&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;I+focus+on+AI+and+UI/UX.;Learning+and+building+cool+stuff.;Welcome+to+my+GitHub+profile!&font=Fira%20Code&size=25&duration=2000&color=00BFFF&center=true" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Skills & Technologies</h3>
