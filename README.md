@@ -38,6 +38,11 @@
 <h3 align="center">My Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [【实战开源】文心守护：我如何用 60GHz 雷达 + 文心大模型，打造“无感”老人看护系统？](https://blog.csdn.net/TheDan/article/details/155169955)
+- [LazyLLM 创新实践：LLM 与工具协同，构建智能客服问答与知识库检索助手](https://blog.csdn.net/TheDan/article/details/153626482)
+- [数字图像处理：阈值分割技术与交互式GUI应用研究](https://blog.csdn.net/TheDan/article/details/149467355)
+- [图像处理新体验：我用Python打造的“多功能”小工具！](https://blog.csdn.net/TheDan/article/details/149467244)
+- [图像降噪的艺术：告别“雪花点”，让照片更清晰！](https://blog.csdn.net/TheDan/article/details/149466962)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">My GitHub Contributions</h3>
